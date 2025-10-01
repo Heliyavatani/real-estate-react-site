@@ -4,7 +4,7 @@ A modern, responsive real estate website built with React that replicates the fu
 
 ## 🌐 Live Demo
 
-View the live application: [https://endearing-alpaca-4c50fa.netlify.app/](https://endearing-alpaca-4c50fa.netlify.app/)
+View the live application: [https://endearing-alpaca-4c50fa.netlify.app/][(https://endearing-alpaca-4c50fa.netlify.app/](https://68ddab2e2bf38640af0d17e3--cosmic-liger-379ba1.netlify.app))
 
 ## 📋 Project Overview
 
